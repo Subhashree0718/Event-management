@@ -1,5 +1,3 @@
-// src/ForgotPassword.js
-
 import React, { useState } from 'react';
 
 function ForgotPassword() {
