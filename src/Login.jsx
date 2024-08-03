@@ -25,7 +25,6 @@ function Login() {
 
   const handleOtpSubmit = (e) => {
     e.preventDefault();
-    // Add logic to verify OTP here
     navigate('/login');
   };
 
